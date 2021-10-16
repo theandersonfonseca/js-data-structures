@@ -1,0 +1,14 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "js-data-structures",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Anderson Fonseca",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

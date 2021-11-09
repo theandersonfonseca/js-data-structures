@@ -7,3 +7,7 @@ Lista ligada é uma estrutura linear e dinâmica, onde os elementos (nós) não 
 <h4>Doubly Linked List/Lista Duplamente Ligada</h4>
 
 Nesta variação, além de uma referência para o próximo nó, os nós também possuem uma referência para o nó anterior, dessa forma podemos "caminhar" pelos dois sentidos, o último nó é chamado de tail.
+
+<h4>Circular Linked List/Lista Ligada Circular</h4>
+
+Nesta variação, utilizando uma estrutura simples, o último nó (tail) possuirá uma referência para o primeiro nó (head), e utilizando uma estrutura duplamente ligada, além disso, o head terá um referência para o tail.
